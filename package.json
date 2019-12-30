@@ -1,0 +1,14 @@
+{
+    "name": "sili-guide",
+    "version": "1.0.0",
+    "description": "SILI is Modern & Elegant design of multiple purpose HTML Template. Any business can flourish in a very short span of time through building their website with Sili Template. It is developed using CSS Grid & SASS.",
+    "devDependencies": {
+        "vuepress": "^1.2.0"
+    },
+    "scripts": {
+        "dev": "vuepress dev",
+        "build": "vuepress build"
+    },
+    "author": "",
+    "license": "ISC"
+}
